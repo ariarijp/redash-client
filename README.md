@@ -1,6 +1,8 @@
 redash-client
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/teppeis/redash-client.svg?token=8de7f8d0ef7b791f9f8035383d174f93f6471b06fd3f6698291b4168bbc5bd25&ts=1504870978259)](https://greenkeeper.io/)
+
 JavaScript Client for [Redash](https://redash.io/) API
 
 [![npm version][npm-image]][npm-url]
